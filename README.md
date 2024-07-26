@@ -11,7 +11,9 @@ Instructions:
 
 3. run "npm install"
 
-4.run "node encrypt-email.js"
+4.run "npm start"
+
+-Complete prompts
 
 5.Create a file with encrypted email
 
