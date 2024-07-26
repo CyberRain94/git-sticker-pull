@@ -14,11 +14,13 @@ Instructions:
 4.run "node encrypt-email.js"
 
 5.Create a file with encrypted email
+
 -Copy the encrypted email text displayed by the script
 
 -create a new file named "any-name/<your-github-username>.txt" & paste encrypted email into this file
 
 6.Add,Commit & push changes
+
 -git add "any-name/<your-github-username>.txt"
 
 -git commit -m "your message"
@@ -26,6 +28,7 @@ Instructions:
 -git push origin main
 
 7.Create a Pull Request:
+
 -Go to your forked repository on GitHub.
 
 -Click on "Compare & pull request".
