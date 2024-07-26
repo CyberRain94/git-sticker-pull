@@ -1,6 +1,6 @@
-const NodeRSA = require('node-rsa');
-const fs = require('fs');
-const dotenv = require('dotenv');
+import NodeRSA from 'node-rsa';
+import fs from 'fs';
+import dotenv from 'dotenv';
 
 dotenv.config();
 
